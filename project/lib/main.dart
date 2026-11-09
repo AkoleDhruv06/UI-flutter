@@ -16,12 +16,12 @@ const purple = Color(0xFF9B6DFF);
 const muted = Color(0xFF9992A8);
 
 const List<Song> starterSongs = [
-  Song('Lofi Hip Hop Radio', 'Lofi Girl', 'jfKfPfyJRdk'),
-  Song('Never Gonna Give You Up', 'Rick Astley', 'dQw4w9WgXcQ'),
-  Song('Despacito', 'Luis Fonsi', 'kJQP7kiw5Fk'),
-  Song('Faded', 'Alan Walker', '60ItHLz5WEA'),
-  Song('Closer', 'The Chainsmokers', 'PT2_F-1esPk'),
-  Song('Perfect', 'Ed Sheeran', '2Vv-BfVoq4g'),
+  Song('Call of Silence', 'Sawano Hiroyuki', 'B-1ZzOp0UUA'), //https://youtu.be/B-1ZzOp0UUA
+  Song('YouSeeBIGGIRL', 'Sawano Hiroyuki', 'vy63u2hKoPE'), //https://youtu.be/vy63u2hKoPE
+  Song('AttackOnTitan', 'Sawano Hiroyuki', 'zroFzv7sFis'), //https://youtu.be/zroFzv7sFis
+  Song('Bauklötze', 'Sawano Hiroyuki', 'qKK-GVTxqow'), //https://youtu.be/qKK-GVTxqow
+  Song('Under The Tree', 'SiM', 'IPX-L2F78fU'), //https://youtu.be/IPX-L2F78fU
+  Song('Barricades', 'Sawano Hiroyuki', 'BXsjKvdEae4'),//https://youtu.be/BXsjKvdEae4
 ];
 
 class Song {
